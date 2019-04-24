@@ -1,1 +1,5 @@
-console.log('script');
+console.log('sum');
+
+function sum(a, b) {
+    return a + b;
+}
